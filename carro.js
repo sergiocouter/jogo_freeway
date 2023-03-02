@@ -1,7 +1,7 @@
 //Variáveis dos carros
-let xCarros = [600, 600, 600];
-let yCarros = [40, 95, 150];
-let velocidadeCarros = [2, 2.5, 3.2];
+let xCarros = [600, 600, 600, 600, 600, 600];
+let yCarros = [40, 95, 150, 205, 260, 315];
+let velocidadeCarros = [2, 2.5, 3.2, 3.5, 2.2, 2];
 
 //Variáveis das dimensões dos carros
 let comprimentoCarro = 50;
